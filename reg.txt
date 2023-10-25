@@ -1,0 +1,19 @@
+<div class="reg-form">
+    <h1>Sign Up</h1>
+    <form action="">
+        <input type="text" placeholder="Username">
+        <input type="text" placeholder="Name">
+        <input type="password" placeholder="password">
+        <input type="password" placeholder="Re-EnterPassword">
+    </form>
+    <div class="terms">
+        <input type="checkbox" id="checkbox">
+        <label for="checkbox">I agree to these <a href="#">Terms & Conditions</a></label>
+    </div>
+    <button>Sign Up</button>
+    <div class="member">
+        Already a member? <a href="#register now">
+            Login Here
+        </a>
+    </div>
+</div>
